@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Catedra\\ITM\\Administracion de Sistemas\\Cursos\\2024-2\\Ejercicios\\apiCambiosMoneda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}|apiCambiosMoneda.Presentacion\\apiCambiosMoneda.Presentacion.csproj|d:\\catedra\\itm\\administracion de sistemas\\cursos\\2024-2\\ejercicios\\apicambiosmoneda\\apicambiosmoneda.presentacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}|apiCambiosMoneda.Presentacion\\apiCambiosMoneda.Presentacion.csproj|solutionrelative:apicambiosmoneda.presentacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4A1604-18EC-4824-AB50-EDD32DFBBA35}|Elementos de la soluci\u00F3n{8E4A1604-18EC-4824-AB50-EDD32DFBBA35}|D:\\Catedra\\ITM\\Administracion de Sistemas\\Cursos\\2024-2\\Ejercicios\\apiCambiosMoneda\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8E4A1604-18EC-4824-AB50-EDD32DFBBA35}|Elementos de la soluci\u00F3n{8E4A1604-18EC-4824-AB50-EDD32DFBBA35}|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Catedra\\ITM\\Administracion de Sistemas\\Cursos\\2024-2\\Ejercicios\\apiCambiosMoneda\\apiCambiosMoneda.Presentacion\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "apiCambiosMoneda.Presentacion\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Catedra\\ITM\\Administracion de Sistemas\\Cursos\\2024-2\\Ejercicios\\apiCambiosMoneda\\apiCambiosMoneda.Presentacion\\Properties\\launchSettings.json",
+              "RelativeToolTip": "apiCambiosMoneda.Presentacion\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T23:32:14.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dockerfile",
+              "DocumentMoniker": "D:\\Catedra\\ITM\\Administracion de Sistemas\\Cursos\\2024-2\\Ejercicios\\apiCambiosMoneda\\dockerfile",
+              "RelativeDocumentMoniker": "dockerfile",
+              "ToolTip": "D:\\Catedra\\ITM\\Administracion de Sistemas\\Cursos\\2024-2\\Ejercicios\\apiCambiosMoneda\\dockerfile",
+              "RelativeToolTip": "dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-22T23:15:11.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -13,7 +13,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiCambiosMoneda.Aplicacion
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiCambiosMoneda.Presentacion", "apiCambiosMoneda.Presentacion\apiCambiosMoneda.Presentacion.csproj", "{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiCambiosMoneda.Test", "apiCambiosMoneda.Test\apiCambiosMoneda.Test.csproj", "{F0017F65-3B8C-4A22-972A-DE395D0C6B61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiCambiosMoneda.Test", "apiCambiosMoneda.Test\apiCambiosMoneda.Test.csproj", "{F0017F65-3B8C-4A22-972A-DE395D0C6B61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{8E4A1604-18EC-4824-AB50-EDD32DFBBA35}"
+	ProjectSection(SolutionItems) = preProject
+		dockerfile = dockerfile
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
