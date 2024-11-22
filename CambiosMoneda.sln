@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiCambiosMoneda.Dominio", "apiCambiosMoneda.Dominio\apiCambiosMoneda.Dominio.csproj", "{D4536664-8C3C-43D3-9FCD-0514F39DAFAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiCambiosMoneda.Core", "apiCambiosMoneda.Core\apiCambiosMoneda.Core.csproj", "{5CF80B52-61E9-4C6D-AAE7-7E2B7AC4BFC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiCambiosMoneda.Infraestructura.Repositorio", "apiCambiosMoneda.Infraestructura.Repositorio\apiCambiosMoneda.Infraestructura.Repositorio.csproj", "{370B871B-A211-4CF4-83BF-599C08F92F06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiCambiosMoneda.Aplicacion", "apiCambiosMoneda.Aplicacion\apiCambiosMoneda.Aplicacion.csproj", "{CA0FB3FA-B29D-4FE7-A046-BE876EEE45C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiCambiosMoneda.Presentacion", "apiCambiosMoneda.Presentacion\apiCambiosMoneda.Presentacion.csproj", "{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiCambiosMoneda.Test", "apiCambiosMoneda.Test\apiCambiosMoneda.Test.csproj", "{F0017F65-3B8C-4A22-972A-DE395D0C6B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4536664-8C3C-43D3-9FCD-0514F39DAFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4536664-8C3C-43D3-9FCD-0514F39DAFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4536664-8C3C-43D3-9FCD-0514F39DAFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4536664-8C3C-43D3-9FCD-0514F39DAFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF80B52-61E9-4C6D-AAE7-7E2B7AC4BFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF80B52-61E9-4C6D-AAE7-7E2B7AC4BFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF80B52-61E9-4C6D-AAE7-7E2B7AC4BFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF80B52-61E9-4C6D-AAE7-7E2B7AC4BFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370B871B-A211-4CF4-83BF-599C08F92F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370B871B-A211-4CF4-83BF-599C08F92F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370B871B-A211-4CF4-83BF-599C08F92F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370B871B-A211-4CF4-83BF-599C08F92F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0FB3FA-B29D-4FE7-A046-BE876EEE45C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0FB3FA-B29D-4FE7-A046-BE876EEE45C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0FB3FA-B29D-4FE7-A046-BE876EEE45C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0FB3FA-B29D-4FE7-A046-BE876EEE45C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0017F65-3B8C-4A22-972A-DE395D0C6B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0017F65-3B8C-4A22-972A-DE395D0C6B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0017F65-3B8C-4A22-972A-DE395D0C6B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0017F65-3B8C-4A22-972A-DE395D0C6B61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {428B6F6F-9A7D-4958-8D46-EFCA1839EA4C}
+	EndGlobalSection
+EndGlobal

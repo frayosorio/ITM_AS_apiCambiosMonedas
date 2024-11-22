@@ -1,0 +1,6 @@
+@apiCambiosMoneda.Presentacion_HostAddress = http://localhost:5235
+
+GET {{apiCambiosMoneda.Presentacion_HostAddress}}/
+Accept: application/json
+
+###

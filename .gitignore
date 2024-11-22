@@ -1,0 +1,99 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+*.stackdump
+*.tmp
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Linux & MacOS files
+._*
+.DS_Store
+*.swp
+*.swp
+*.swo
+.fseventsd
+.ToolBox
+.Trashes
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Auto-generated VS Code files
+.vscode/
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Entity Framework
+*.dbmdl
+*.jfm
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+# Packages folder can be ignored if NuGet restore is used.
+# Uncomment if necessary.
+# packages/
+# NuGet v3's project.json files produces more ignorable files
+project.lock.json
+project.fragment.lock.json
+.nuget/
+
+# Npm packages
+node_modules/
+
+# Web files
+.bundle/
+.sass-cache/
+npm-debug.log
+yarn-error.log
+
+# VSCode
+.vscode/
+.history/
+
+# Optional
+# If using ReSharper or similar productivity tools, uncomment the following lines
+# to ignore their settings and caches:
+# _ReSharper*/
+# *.DotSettings.user
+# JetBrains Rider
+# .idea/
+# RiderProjects/
